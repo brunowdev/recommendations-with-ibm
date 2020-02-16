@@ -13,7 +13,7 @@
 
 ## Project overview<a name="overview"></a>
 
-This projects shows some strategies for recommendation engines using data from the IBM Watson Studio Platform.
+This project shows some strategies for recommendation engines using data from the IBM Watson Studio Platform.
 
 Topics:
 
